@@ -1,5 +1,4 @@
 # The Starknet Book
-
 This repository contains the source for [The Starknet Book](book.starknet.io).
 
 ## Contribution
